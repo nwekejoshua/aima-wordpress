@@ -1,0 +1,24 @@
+[11/Sep/2023:17:23:37] (I): WordPress Instance Info:
+[11/Sep/2023:17:23:37] (I): Home URL : http://localhost/wordpress
+[11/Sep/2023:17:23:37] (I): Site URL : http://localhost/wordpress
+[11/Sep/2023:17:23:37] (I): WordPress Version : 6.3.1
+[11/Sep/2023:17:23:37] (I): Onboarding Version : 1.1.39
+[11/Sep/2023:17:23:37] (I): Multisite : No
+[11/Sep/2023:17:23:37] (I): Server Info : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+[11/Sep/2023:17:23:37] (I): PHP Version : 8.2.4
+[11/Sep/2023:17:23:37] (I): HTTPS : No
+[11/Sep/2023:17:23:37] (I): PHP Max Execution Time : 120
+[11/Sep/2023:17:23:37] (I): PHP Max Input Vars : 1000
+[11/Sep/2023:17:23:37] (I): Max Upload Size : 41943040
+[11/Sep/2023:17:23:37] (I): Plugins:
+[11/Sep/2023:17:23:37] (I): [PLUGIN] Elementor : v3.15.3 (Elementor.com)
+[11/Sep/2023:17:23:37] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.3.4 (ThemeIsle)
+[11/Sep/2023:17:23:37] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
+[11/Sep/2023:17:23:38] (P): Saving remote XML
+[11/Sep/2023:17:23:44] (S): Error saving the remote file: cURL error 28: SSL connection timeout.
+[11/Sep/2023:17:23:44] (S): Saved remote XML at path C:\xampp\htdocs\wordpress/wp-content/uploads/themeisle-demo-import.xml.
+[11/Sep/2023:17:23:44] (P): Starting content import...
+[11/Sep/2023:17:23:44] (S): Import started.
+[11/Sep/2023:17:23:44] (S): Parsing XML file.
+[11/Sep/2023:17:23:44] (P): Starting parsing file:C:\xampp\htdocs\wordpress/wp-content/uploads/themeisle-demo-import.xml
+[11/Sep/2023:17:23:44] (P): Using WXR_Parser_SimpleXML...
